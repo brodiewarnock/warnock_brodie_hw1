@@ -14,3 +14,95 @@
 	height: 0;
 	clear: both;
 }
+
+div,p,body,header,footer,section,article,nav 
+{ 
+	margin: 0; 
+	padding: 0; 
+}	
+
+img 
+{ 
+	border: none;
+	margin: 0; 
+	padding: 0; 
+}
+
+body 
+{
+	font-family: Agency FB, Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: #000;
+}
+
+#container
+{
+	margin: 0 auto;
+	width: 960px;
+}
+
+h1
+{
+	font-size: 70px;
+	background-color: blue;
+	color: white;
+}
+
+#logo
+{
+	float: right;
+	margin-right: 600px;
+}
+
+#logo:hover
+{
+	margin-right: 0;
+}
+
+#myBackground
+{
+	width: 520px;
+	height: 300px;
+	float: left;
+	margin-top: 50px;
+}
+
+#myInterests
+{
+	width: 520px;
+	height: 300px;
+	float: left;
+	margin-top: 50px;
+}
+.myImages
+{
+	border-radius: 15px;
+}
+
+.myImages:hover
+{
+	opacity: .5;
+}
+
+#top10Games
+{
+	width: 250px;
+	float: right;
+	margin-top: -300px;
+}
+
+h3
+{
+	font-size: 33px;
+}
+
+
+
+
+
+
+
+
+
+
+
